@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.store.miomeds",
+            "sha256_cert_fingerprints": [
+                "SHA-256: 10:3A:78:60:4E:3F:E1:E8:69:30:EF:B9:15:C7:2B:A8:27:6F:05:CA:5F:79:A8:99:DF:E9:5B:61:4C:49:F9:A5"
+            ]
+        }
+    }
+]
